@@ -112,4 +112,3 @@ Generated as Base64 → Embedded in UI.
 
 MIT License
 
-Just tell me!
